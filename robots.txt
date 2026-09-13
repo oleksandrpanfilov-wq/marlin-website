@@ -1,0 +1,5 @@
+User-Agent: *
+Sitemap: https://marlin.in.ua/sitemap.xml
+Sitemap: https://marlin.in.ua/sitemap-store.xml
+Sitemap: https://marlin.in.ua/sitemap-feeds.xml
+Host: https://marlin.in.ua
